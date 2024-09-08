@@ -6,7 +6,7 @@
 
   <div align="center">
        <a href="https://linkedin.com/in/mzubair5608/">
-        <img src="https://github.com/Zubair-Akb/Zubair-Akb/blob/main/icons/Linkedin.png" width="4%"/> 
+        <img src="https://github.com/Zubair-Akb/Zubair-Akb/blob/main/icons/Linkedin.jpeg" width="4%"/> 
           
 <!--
 **Zubair-Akb/Zubair-Akb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
