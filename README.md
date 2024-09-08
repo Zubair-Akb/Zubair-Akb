@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on multi-modal learning, Explainable AI, Generative AI and innovative AI-driven healthcare applications.
 - 💬 I'm currently looking for collaborations, feel free to contact me.
 - 📫 How to reach me:
--       :e-mail:zubair5608@ust.ac.kr, 
+       :e-mail:zubair5608@ust.ac.kr, 
 <!--
 **Zubair-Akb/Zubair-Akb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
