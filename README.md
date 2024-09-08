@@ -1,15 +1,22 @@
 ## Hi there 👋
 - 🌱 I am Muhammad Zubair
-- 🔭 I’m currently working on multi-modal learning, Explainable AI, Generative AI and innovative AI-driven healthcare applications.
+- 🔭 I’m working on multi-modal learning, Explainable AI, Generative AI and innovative AI-driven healthcare applications.
 - 💬 I'm currently looking for collaborations, feel free to contact me.
 - 📫 How to reach me: <br />
 
   <div align="center">
+       <a href="https://sites.google.com/view/zubair-akb/home">
+        <img src="https://github.com/Zubair-Akb/Zubair-Akb/blob/main/icons/Home_2.png" width="4%"/> 
+        </a>
+        </a>
+        </a>
+       <a href="zubair5608@ust.ac.kr">
+        <img src="https://github.com/Zubair-Akb/Zubair-Akb/blob/main/icons/Email.png" width="4%"/>
+        </a>
+        </a>
+        </a>
        <a href="https://linkedin.com/in/mzubair5608/">
         <img src="https://github.com/Zubair-Akb/Zubair-Akb/blob/main/icons/Linkedin.jpeg" width="4%"/> 
-
-        <a href="https://sites.google.com/view/zubair-akb/home">
-        <img src="https://github.com/Zubair-Akb/Zubair-Akb/blob/main/icons/Home.png" width="4%"/> 
           
 <!--
 **Zubair-Akb/Zubair-Akb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
