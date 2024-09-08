@@ -5,8 +5,9 @@
 - 📫 How to reach me: <br />
 
   <div align="center">
-       📧 zubair5608@ust.ac.kr <br /> 
-           [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mzubair5608/)
+       <a href="https://linkedin.com/in/mzubair5608/">
+        <img src="https://github.com/Zubair-Akb/Zubair-Akb/blob/main/icons/email_logo_2.png" width="4%"/> 
+          
 <!--
 **Zubair-Akb/Zubair-Akb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
