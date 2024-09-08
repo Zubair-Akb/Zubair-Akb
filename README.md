@@ -9,7 +9,7 @@
        <a href="https://sites.google.com/view/zubair-akb/home">
                 <img src="https://github.com/Zubair-Akb/Zubair-Akb/blob/main/icons/Home_2.png" width="5%"/> 
        </a>$~~~~~~~~~~$
-       <a href="zubair5608@ust.ac.kr">
+       <a href="mailto:zubair5608@ust.ac.kr">
                 <img src="https://github.com/Zubair-Akb/Zubair-Akb/blob/main/icons/Email.png" width="5%"/>
         </a>$~~~~~~~~~~$
        <a href="https://linkedin.com/in/mzubair5608/">
